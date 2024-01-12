@@ -1,4 +1,4 @@
-package myymodule
+package mymodule
 
 import "fmt"
 
